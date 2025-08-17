@@ -1,4 +1,4 @@
-US Flight Delay Visualization
+# US Flight Delay Visualization
 
 This project presents an interactive data visualization analysis of  US domestic flights from 2015. Using Tableau and R, we analyzed flight delays, cancellations, airline performance, and the busiest routes and airports across the country.
 
@@ -11,13 +11,13 @@ Visualizations & Dashboards
 - Busiest Routes & Airlines: Flight volumes and operational hubs.
 
 
-# Tools Used
+## Tools Used
 - Tableau
 - R (ggplot2, waffle, dplyr)
 - Excel
 - Dataset -  2015 Flight Delays and Cancellations dataset (https://www.kaggle.com/datasets/usdot/flight-delays/data?select=flights.csv)
 
-Key Insights
+## Key Insights
 - Delta and Hawaiian Airlines had the best on-time performance.
 - Weather delays spiked in winter across Midwest & Northeast.
 - Busiest US route: SFO to LAX; busiest airline: Southwest.
